@@ -68,3 +68,15 @@ Bonus: Motivational sentences for README or bio
 "Day 1/365: Consistency over intensity. 1 problem today, 1000 tomorrow."
 "Fresh GitHub, fresh start. Nov 10, 2025 — the day I decided to level up."
 Daily updates incoming. Follow the journey! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+<!---LeetCode Topics End-->
