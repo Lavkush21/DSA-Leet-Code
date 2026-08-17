@@ -74,9 +74,22 @@ Daily updates incoming. Follow the journey! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
