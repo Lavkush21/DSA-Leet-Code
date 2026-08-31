@@ -147,4 +147,8 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
