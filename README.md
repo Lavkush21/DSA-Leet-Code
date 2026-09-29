@@ -82,6 +82,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1386-cinema-seat-allocation](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +218,5 @@ Daily updates incoming. Follow the journey! 🚀
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
