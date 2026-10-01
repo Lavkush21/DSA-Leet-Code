@@ -123,6 +123,7 @@ Daily updates incoming. Follow the journey! 🚀
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -143,6 +144,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0226-invert-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -253,4 +255,16 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
