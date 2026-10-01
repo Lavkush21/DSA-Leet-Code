@@ -76,6 +76,7 @@ Daily updates incoming. Follow the journey! 🚀
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -169,6 +170,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -232,4 +234,20 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
