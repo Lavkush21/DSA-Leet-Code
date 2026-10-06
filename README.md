@@ -162,6 +162,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## String
@@ -171,6 +172,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0022-generate-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -233,6 +235,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0020-valid-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -243,6 +246,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0022-generate-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
