@@ -85,6 +85,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1386-cinema-seat-allocation](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -100,6 +101,7 @@ Daily updates incoming. Follow the journey! 🚀
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Game Theory
@@ -122,6 +125,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +140,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +208,7 @@ Daily updates incoming. Follow the journey! 🚀
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -215,6 +221,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +304,20 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
