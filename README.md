@@ -86,6 +86,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -234,10 +235,12 @@ Daily updates incoming. Follow the journey! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
