@@ -197,6 +197,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0207-course-schedule/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +343,8 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
