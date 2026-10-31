@@ -91,6 +91,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -121,6 +122,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
