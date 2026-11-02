@@ -77,6 +77,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0200-number-of-islands](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -106,6 +107,7 @@ Daily updates incoming. Follow the journey! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -257,6 +259,7 @@ Daily updates incoming. Follow the journey! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Stack
