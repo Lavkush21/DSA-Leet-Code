@@ -85,6 +85,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -109,6 +110,7 @@ Daily updates incoming. Follow the journey! 🚀
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -120,6 +122,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -233,6 +236,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
