@@ -127,6 +127,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Game Theory
@@ -203,6 +204,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
@@ -357,4 +359,8 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 <!---LeetCode Topics End-->
