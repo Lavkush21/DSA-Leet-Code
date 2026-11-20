@@ -92,6 +92,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -128,6 +129,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Game Theory
@@ -269,6 +271,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
