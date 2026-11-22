@@ -209,6 +209,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
