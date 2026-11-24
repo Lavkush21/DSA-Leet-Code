@@ -94,6 +94,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -116,6 +117,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,4 +376,12 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
