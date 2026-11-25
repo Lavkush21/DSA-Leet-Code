@@ -100,6 +100,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +276,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,4 +387,16 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
