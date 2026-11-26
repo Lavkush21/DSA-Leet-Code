@@ -118,6 +118,7 @@ Daily updates incoming. Follow the journey! 🚀
 | [1563-stone-game-v](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3360-stone-removal-game](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -399,4 +400,8 @@ Daily updates incoming. Follow the journey! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/Lavkush21/DSA-Leet-Code/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
